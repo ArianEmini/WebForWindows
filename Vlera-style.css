@@ -1,0 +1,176 @@
+.Dhenja-Vlerave {
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+}
+.Dhenja-Vlerave2{
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+ 
+}
+.Dhenja-Vlerave3{
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+ 
+}
+.Dhenja-Vlerave4{
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+ 
+}
+.Dhenja-Vlerave2N{
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+ 
+}
+.Dhenja-Vlerave3N{
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+ 
+}
+.Dhenja-Vlerave4N{
+  background-color: rgb(255, 255, 255);
+  margin-top: 40%;
+ 
+}
+/* .Titulli-Vlerave1{
+  display: flex;
+  justify-content: center;
+  padding: 1% 2% 0% 2% ;
+  font-size: 18px;
+  color: rgb(255, 0, 0);
+} */
+
+/* .Dhenja-Vlerave form {
+  margin: 5% 7% 5% 7% ;
+}
+.Dhenja-Vlerave2 form {
+  margin: 5% 8% 5% 8%;
+}
+.Dhenja-Vlerave3 form {
+  margin: 5% 8% 5% 8%;
+}
+.Dhenja-Vlerave4 form {
+  margin: 5% 8% 5% 8%;
+}
+.Dhenja-Vlerave2N form {
+  margin: 5% 8% 5% 8% ;
+}
+.Dhenja-Vlerave3N form {
+  margin: 5% 8% 5% 8%;
+}
+.Dhenja-Vlerave4N form {
+  margin: 5% 8% 5% 8%;
+} */
+
+.FillimiVlerave {
+  margin-top: 5% !important;
+  margin-left: 5%;
+}
+.FillimiV {
+  color: rgb(12, 12, 12) !important;
+  text-decoration: none !important;
+}
+.SaveVlera{
+  margin-top: 2% !important;
+  margin:auto;
+
+}
+a{
+  text-decoration: none !important;
+  
+}
+
+ th{
+  font-size:15px !important;
+  background-color: rgb(245, 142, 142);
+  padding-bottom: 6% !important;
+}
+td{
+  font-size: 15.5px !important;
+  background-color: rgb(233, 233, 233);
+  color: red;
+  font-weight: bolder;
+  padding-left: 12% !important;
+  padding-top: 5% !important;
+}
+
+@media(max-width:425px){
+  #Fillimi h3{
+    color: rgb(11, 44, 190);
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+.buttoniVlera{
+  font-size: 12px;
+}
+.buttoniLista{
+  font-size: 12px;
+}
+  .Dhenja-Vlerave strong{
+    font-size: 8px;
+  }
+  .Dhenja-Vlerave2 strong{
+    font-size: 8px;
+  }
+  .Dhenja-Vlerave3 strong{
+    font-size: 8px;
+  }
+  .Dhenja-Vlerave4 strong{
+    font-size: 8px;
+  }
+  .Dhenja-Vlerave2N strong{
+    font-size: 8px;
+  }  .Dhenja-Vlerave3N strong{
+    font-size: 8px;
+  }  .Dhenja-Vlerave4N strong{
+    font-size: 8px;
+  }
+  th{
+    font-size: 11px !important;
+  }
+  td{
+    font-size: 11px !important;
+  }
+  /* .Dhenja-Vlerave form{
+    padding: 0% 1% 0% 1% !important ;
+  } */
+  .divi-tabel{
+    margin-top:10%;
+  }
+  .Titulli-Vlerave1{
+    margin-top: 8%;
+  }
+  /* .Dhenja-Vlerave2 form{
+    padding: 0% 1% 0% 1% !important ;
+  }
+  .Dhenja-Vlerave3 form{
+    padding: 0% 1% 0% 1% !important ;
+  }
+  .Dhenja-Vlerave4 form{
+    padding: 0% 1% 0% 1% !important ;
+  }
+  .Dhenja-Vlerave2N form{
+    padding: 0% 1% 0% 1% !important ;
+  }
+  .Dhenja-Vlerave3N form{
+    padding: 0% 1% 0% 1% !important ;
+  }
+  .Dhenja-Vlerave4N form{
+    padding: 0% 1% 0% 1% !important ;
+  } */
+  .SaveVlera{
+    font-size: 10px;
+  } 
+ 
+}
+
+@media(max-width:768px){
+  .divi-tabel{
+    margin-top:10%;
+  }
+  .Titulli-Vlerave1{
+    margin-top: 8%;
+  }
+}

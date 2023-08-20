@@ -1,0 +1,1760 @@
+#Fillimi h3{
+    color: rgb(11, 44, 190);
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+
+.hidden{
+    opacity: 1;
+}
+.B{
+    opacity:0.1;
+}
+
+body{
+    background-image: url("Foto.jpg");
+   background-size:220%;
+   background-position: top;
+    /* opacity: 1; */
+    background-repeat:repeat;
+    
+}
+.BodyOpecity{
+    opacity: 0.1;
+}
+
+img{
+    width: 100%;
+    margin-top: 5%;
+    height: 90%;
+}
+.modal-content{
+ /* background-image: url('modal1.jpg'); */
+ background-color: rgb(215, 246, 252);
+}
+
+/* .modal-header{
+   background-image: url('body.jpg');
+   background-position:top;
+  background-position-x:top;
+  background-size: 70% !important;
+   background-size: cover;
+}
+*/
+/* .modal-body{
+    background-color:#ffffff;
+} */
+
+.modal-footer{
+    background-color: #ffffff;
+
+} 
+.Gjatesia{
+width: 49%;
+float: right;
+margin-bottom: 5%;
+}
+.Gjeresia{
+    width: 49%;
+    float: left;
+    margin-bottom: 5%;
+}
+.Gjatesia1{
+    width: 49%;
+    float: right;
+    margin-bottom: 5%;
+    }
+    .Gjeresia1{
+        width: 49%;
+        float: left;
+        margin-bottom: 5%;
+    }
+    
+
+.my-modal{
+    width: 49%;
+    opacity: 1 !important;
+    /* height: 100%; */
+    position: fixed;
+    left: 27%;
+    top:0%;
+    
+    
+
+}
+
+@media(min-width:768px){
+    #Fillimi h3{
+        color: rgb(11, 44, 190);
+        text-align: center;
+        
+        
+    }
+    body{
+        background-image: url("Foto.jpg");
+       background-size:100%;
+       background-position: top;
+        opacity: 1;
+        background-repeat:repeat;
+        
+    }
+    .ButoniShtyllaN-2{
+       margin-left: 10% !important;
+    }
+    .TreshiMarginButon{
+      margin-left: 15% !important;
+  }
+  .TreshiMarginButonNdarse{
+    margin-left: 13% !important;
+}
+    .GjatesiaTreshe-3{
+        margin-left: 80% !important ;
+        margin-top: 5%;
+        margin-bottom: 6%;
+    }
+    .Dritare1-PerFoto{
+        height: 65% !important;
+    }
+    .Dritare2-PerFoto{
+        height: 72% !important;
+        /* margin-left: 3%; */
+    }
+    .Dritare3-PerFoto{
+        height: 72% !important;
+        /* margin-left: 3%; */
+    }
+    .Dritare4-PerFoto{
+        height: 72% !important;
+        /* margin-left: 3%; */
+    }
+    .my-modal{
+        margin-top: 8% !important;
+    }
+    .Katershja{
+        padding-top: 3% !important;
+        width: 54% !important;
+    }
+    .KatersheN4{
+        padding-top: 3% !important;
+        width: 54% !important;
+    }
+    .ButoniShtylla{
+        margin-left: 39% !important;
+    }
+    .ButoniShtyllaPerNdarse{
+        margin-left: 39% !important;
+    }
+    .GjatesiaNdarese{
+        margin-left: 80% !important;
+    }
+    .ButoniAdapter-41{
+      margin-right: 10px !important;
+    }
+    .TreshjaN{
+        margin-top: 5% !important;
+    }
+ .Katershja{
+     margin-top: 5% !important;
+     width: 50%;
+     margin-right: 30% !important;
+ }
+ .KatersheN4{
+    margin-top: 5% !important;
+ }
+ .GjeresiaN4{
+     margin-left: 20%;
+ }
+.Image img{
+    margin-left: 20%;
+    height: 90%;
+}
+#RezultatetN4{
+    padding-left:6%;
+}
+#Rezultatet4{
+    padding-left:4%;
+}
+.GjatesiaTresheNdarse {
+margin-left: 13% !important;
+}
+
+
+}
+@media(max-width:768px){
+    body{
+        margin: 0%;
+        padding:0%;
+        background-image: url("Foto.jpg");
+        background-size:254%;
+        background-position: top;
+         /* opacity: 1; */
+         background-repeat:repeat;
+    }
+    *{
+        margin: 0%;
+        padding:0%;
+    }
+    
+    .Mbledhjadyshe a{
+       margin-right:4% !important;
+    }
+    .DritareNdarse-2{
+        margin-top: 0% !important;
+    
+    }
+   
+    .Dritare-3{
+    margin-top:1% !important;
+    }
+    .DritareNdarse-3{
+        margin-top: 0% !important;
+    
+    }
+    .Dritare-4{
+        margin-top:1% !important;
+        }
+    
+    .DritareNdarse-4{
+        margin-top: 0% !important;
+    
+    }
+    
+    /* REZULTATI-1 */
+    
+    
+    .Rezultatet1 strong{
+        font-size:0.55pc;
+    }
+    .Rezultatet1 h4{
+        font-size: 12px;
+        padding-right: 10px !important;
+    }
+    .Rezultatet1 button{
+        font-size: 8px;
+    }
+    .Rezultatet1 img{
+       height: 60% !important;
+       margin-right: 10% !important;
+    }
+    /* .Image{
+    width: 100%;
+    height: 100%;
+    padding-right: 15% !important;
+    margin-top: 20% !important;
+    } */
+    
+    /* REZULTATI 2 */
+    .Rezultatet strong{
+        font-size:0.55pc;
+      }
+      .Rezultatet h4{
+          font-size: 12px;
+          padding-right: 10px !important;
+      }
+      .Rezultatet button{
+          font-size: 8px;
+      }
+      .Rezultatet img{
+         height: 60% !important;
+         margin-right: 10% !important;
+      }
+      .Image2{
+      width: 60%;
+      /* height: 100% !important; */
+      margin-left: 10.5%;
+      /* margin-top: 20% !important; */
+      }
+    
+    /* REZULTATET 2 NDARSE */
+    .RezultatetL strong{
+        font-size:0.55pc;
+      }
+      .RezultatetL h4{
+          font-size: 10px;
+          padding-right: 10px !important;
+      }
+      .RezultatetL button{
+          font-size: 8px;
+      }
+      .RezultatetL img{
+         height: 60% !important;
+         margin-right: 10% !important;
+      }
+      .Image2N{
+      width: 60%;
+      height: 50%;
+      margin-left: 22.5%;
+      margin-top: 4% !important;
+      }
+    /* Rezultatet 3 */
+    .Rezultatet-3 strong{
+        font-size:0.55pc;
+      }
+      .Rezultatet-3 h4{
+          font-size: 10px;
+          padding-right: 10px !important;
+      }
+      .Rezultatet-3 button{
+          font-size: 8px;
+      }
+      .Rezultatet-3 img{
+         height: 60% !important;
+         margin-right: 0% !important;
+      }
+      .Image3{
+      width: 60%;
+      height: 50%;
+      margin-left: 22.5%;
+      margin-top: 3% !important;
+      }
+    
+      /* Rezultatet 3 Ndarse */
+      .RezultatetN-3 strong{
+        font-size:0.55pc;
+      }
+      .RezultatetN-3 h4{
+          font-size: 10px;
+          padding-right: 10px !important;
+      }
+      .RezultatetN-3 button{
+          font-size: 8px;
+      }
+      .RezultatetN-3 img{
+         height: 60% !important;
+         margin-right: 10% !important;
+      }
+      .Image3N{
+      width: 60%;
+      height: 50%;
+      margin-left: 22.5%;
+      margin-top: 4% !important;
+      }
+    
+    
+      /* Rezultatet 4  */
+      .Rezultatet-4 strong{
+        font-size:0.55pc;
+      }
+      .Rezultatet-4 h4{
+          font-size: 10px;
+          padding-right: 10px !important;
+      }
+      .Rezultatet-4 button{
+          font-size: 8px;
+      }
+      .Rezultatet-4 img{
+         height: 60% !important;
+         margin-right: 10% !important;
+      }
+      .Image4{
+      width: 60%;
+      height: 50%;
+      margin-left: 22.5%;
+      margin-top: 2% !important;
+      }
+    /* Rezultatet 4 Ndarse */
+    .RezultatetN-4 strong{
+        font-size:0.55pc;
+
+      }
+      .RezultatetN-4 h4{
+          font-size: 10px;
+          padding-right: 10px !important;
+      }
+      .RezultatetN-4 button{
+          font-size: 8px;
+      }
+      .RezultatetN-4 img{
+         height: 60% !important;
+         margin-right: 10% !important;
+      }
+      .Image4N{
+      width: 60%;
+      height: 100% !important;
+      margin-left: 22.5%;
+      margin-top: 2% !important;
+      }
+    
+    
+    
+    
+    .Gjatesia4{
+        margin-left: 33.3% !important;
+        margin-top: 2%;
+    }
+    .Mbledhja{
+        margin-left: 10% !important;
+    }
+    .x1{
+        float: left;
+        top:1%;
+    } 
+    .Katershja{
+        margin-top: 15% !important;
+    }
+    .KatersheN4{
+        margin-top: 0% !important;
+     }
+    
+    .Dritare1-PerFoto{
+        width: 100% !important;
+        height: 70% !important;
+          position: fixed !important;
+          left:0% !important;
+          top:15% !important;
+    }
+    .Dritare2-PerFoto, .Dritare3-PerFoto,.Dritare4-PerFoto{
+        width: 100% !important;
+        height: 95% !important;
+          position: fixed !important;
+          left:0% !important;
+          top:2% !important;
+    }
+    .my-modal{
+        width: 100% !important;
+        /* height: 100%; */
+        
+        position: fixed !important;
+        left: 0% !important;
+        top:0% !important;
+    }
+    .Foto{
+        margin: 0px !important;
+        width: 40%;
+        margin-left: 37% !important;
+    }
+    .Foto2{
+        margin: 0px !important;
+        width: 40%;
+        height: 40%;
+        margin-left: 37% !important;
+    }
+    .FotoNdarese-2{
+        margin: 0px !important;
+        width: 40%;
+        height: 40%;
+        margin-left: 37% !important;
+    }
+    .Foto3{
+        margin: 0px !important;
+        width: 40%;
+        height: 40%;
+        margin-left: 42% !important;
+    }
+    .FotoN3{
+        margin: 0px !important;
+        width: 40%;
+        height: 40%;
+        margin-left: 37% !important;
+    }
+    .Foto4{
+        margin: 0px !important;
+        width: 40%;
+        height: 110% !important;
+        margin-left: 40% !important;
+    }
+    .Dritare2-PerFoto button{
+        margin-left: 25%;
+    }
+    .Dritare3-PerFoto button{
+        margin-left: 25% !important;
+
+    }
+    .Dritare4-PerFoto button{
+        margin-left: 25% !important;
+    }
+
+    .ButoniShtyllaP-1{
+        margin-left: 50% !important;
+
+    }
+    .ButoniShtyllaP-2{
+        margin-left:30% !important;
+
+    }
+    .ButoniAdapterP-1{
+        margin-left:10% !important;
+    }
+    .ButoniAdapterP-2{
+        margin-right:40% !important;
+    }
+    .TreshiMarginButon{
+        margin-left: 0% !important;
+        width: 10% ;
+    }
+.GjatesiaTreshe-3{
+    margin-left: 75.5% ;
+}
+.GjatesiaTresheNdarse{
+    margin-left: 0% !important;
+}
+.ButoniAdapter-42{
+    margin-right: 0% ;
+}
+.ButoniAdapterNN-43{
+    margin-right: 0% ;
+}
+.GjatesiaKatersheNdarse{
+    margin-left: 24% ;
+}
+.Gjatesia4 {
+    margin-left:0% !important;
+    margin-top: 0% ;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+@media(max-width:425px){
+/* .my-modal{
+    width: 100%;
+    position: fixed;
+    left: 0%;
+    height: 100% !important;
+    margin-bottom: 20px !important;
+} */
+.x1{
+    margin-left: 5%!important;
+}
+.ButoniShtylla-41{
+    margin-left: 35%;
+}
+.ButoniShtylla-42{
+    margin-left: 15%;
+}
+.ButoniAdapter-41 {
+    margin-left: 24%;
+}
+.ButoniAdapter-42 {
+    margin-left:13%;
+}
+
+.ButoniShtyllaNN-41{
+    margin-left: 20%;
+}
+.ButoniShtyllaNN-42{
+    margin-left: 10%;
+}
+.ButoniAdapterNN-41 {
+    margin-left: 10%;
+}
+.ButoniAdapterNN-42 {
+    margin-left: 5%;
+}
+
+.ButoniAdapterNN-41{
+    margin-top: 5%;
+}
+.ButoniAdapterNN-42{
+    margin-top: 5%;
+}
+.ButoniAdapterNN-43{
+    margin-top: 5%;
+}
+#DeletedClass-1{
+    margin-top:60% !important;
+}
+body{
+    margin: 0%;
+    padding:0%;
+    background-image: url("Foto.jpg");
+    background-size:254%;
+    background-position: top;
+     /* opacity: 1; */
+     background-repeat:repeat;
+}
+*{
+    margin: 0%;
+    padding:0%;
+}
+
+.Mbledhjadyshe a{
+   margin-right:4% !important;
+}
+.DritareNdarse-2{
+    margin-top: 0% !important;
+
+}
+.Dritare-3{
+margin-top:5.5% !important;
+}
+.DritareNdarse-3{
+    margin-top: 0% !important;
+
+}
+.Dritare-4{
+    margin-top:8% !important;
+    }
+
+.DritareNdarse-4{
+    margin-top: 0% !important;
+
+}
+
+/* REZULTATI-1 */
+
+
+.Rezultatet1 strong{
+  font-size:5px !important;
+}
+.Rezultatet1 h4{
+    font-size: 12px;
+    padding-right: 10px !important;
+}
+.Rezultatet1 button{
+    font-size: 8px;
+}
+.Rezultatet1 img{
+   height: 60% !important;
+   margin-right: 10% !important;
+}
+/* .Image{
+width: 100%;
+height: 100%;
+padding-right: 15% !important;
+margin-top: 20% !important;
+} */
+
+/* REZULTATI 2 */
+.Rezultatet strong{
+    font-size:5px !important;
+  }
+  .Rezultatet h4{
+      font-size: 12px;
+      padding-right: 10px !important;
+  }
+  .Rezultatet button{
+      font-size: 8px;
+  }
+  .Rezultatet img{
+     height: 60% !important;
+     margin-right: 10% !important;
+  }
+  .Image2{
+  width: 60%;
+  /* height: 100% !important; */
+  margin-left: 10.5%;
+  /* margin-top: 20% !important; */
+  }
+
+/* REZULTATET 2 NDARSE */
+.RezultatetL strong{
+    font-size:0.4pc;
+  }
+  .RezultatetL h4{
+      font-size: 10px;
+      padding-right: 10px !important;
+  }
+  .RezultatetL button{
+      font-size: 8px;
+  }
+  .RezultatetL img{
+     height: 60% !important;
+     margin-right: 10% !important;
+  }
+  .Image2N{
+  width: 60%;
+  height: 50%;
+  margin-left: 22.5%;
+  margin-top: 4% !important;
+  }
+/* Rezultatet 3 */
+.Rezultatet-3 strong{
+    font-size:0.4pc;
+  }
+  .Rezultatet-3 h4{
+      font-size: 10px;
+      padding-right: 10px !important;
+  }
+  .Rezultatet-3 button{
+      font-size: 8px;
+  }
+  .Rezultatet-3 img{
+     height: 60% !important;
+     margin-right: 0% !important;
+  }
+  .Image3{
+  width: 60%;
+  height: 50%;
+  margin-left: 22.5%;
+  margin-top: 3% !important;
+  }
+
+  /* Rezultatet 3 Ndarse */
+  .RezultatetN-3 strong{
+    font-size:0.4pc;
+  }
+  .RezultatetN-3 h4{
+      font-size: 10px;
+      padding-right: 10px !important;
+  }
+  .RezultatetN-3 button{
+      font-size: 8px;
+  }
+  .RezultatetN-3 img{
+     height: 60% !important;
+     margin-right: 10% !important;
+  }
+  .Image3N{
+  width: 60%;
+  height: 50%;
+  margin-left: 22.5%;
+  margin-top: 4% !important;
+  }
+
+
+  /* Rezultatet 4  */
+  .Rezultatet-4 strong{
+    font-size:0.4pc;
+  }
+  .Rezultatet-4 h4{
+      font-size: 10px;
+      padding-right: 10px !important;
+  }
+  .Rezultatet-4 button{
+      font-size: 8px;
+  }
+  .Rezultatet-4 img{
+     height: 60% !important;
+     margin-right: 10% !important;
+  }
+  .Image4{
+  width: 60%;
+  height: 50%;
+  margin-left: 22.5%;
+  margin-top: 2% !important;
+  }
+/* Rezultatet 4 Ndarse */
+.RezultatetN-4 strong{
+    font-size:0.4pc;
+  }
+  .RezultatetN-4 h4{
+      font-size: 10px;
+      padding-right: 10px !important;
+  }
+  .RezultatetN-4 button{
+      font-size: 8px;
+  }
+  .RezultatetN-4 img{
+     height: 60% !important;
+     margin-right: 10% !important;
+  }
+  .Image4N{
+  width: 60%;
+  height: 100% !important;
+  margin-left: 22.5%;
+  margin-top: 2% !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+.Gjatesia4{
+    margin-left: 33.3% !important;
+    margin-top: 2%;
+}
+.Mbledhja{
+    margin-left: 10% !important;
+}
+.x1{
+    float: left;
+    top:1%;
+} 
+.Katershja{
+    margin-top: 15% !important;
+}
+.KatersheN4{
+    margin-top: 0% !important;
+ }
+
+.Dritare1-PerFoto{
+    width: 100% !important;
+    height: 70% !important;
+      position: fixed !important;
+      left:0% !important;
+      top:15% !important;
+}
+.Dritare2-PerFoto, .Dritare3-PerFoto,.Dritare4-PerFoto{
+    width: 100% !important;
+    height: 88% !important;
+      position: fixed !important;
+      left:0% !important;
+      top:8% !important;
+}
+.my-modal{
+    width: 100% !important;
+    /* height: 100%; */
+    
+    position: fixed !important;
+    left: 0% !important;
+    top:0% !important;
+}
+.Foto{
+    margin: 0px !important;
+    width: 40%;
+    margin-left: 37% !important;
+}
+.Foto2{
+    margin: 0px !important;
+    width: 40%;
+    height: 40%;
+    margin-left: 37% !important;
+}
+.FotoNdarese-2{
+    margin: 0px !important;
+    width: 40%;
+    height: 40%;
+    margin-left: 37% !important;
+}
+.Foto3{
+    margin: 0px !important;
+    width: 40%;
+    height: 40%;
+    margin-left: 37% !important;
+}
+.FotoN3{
+    margin: 0px !important;
+    width: 40%;
+    height: 40%;
+    margin-left: 37% !important;
+}
+.Foto4{
+    margin: 0px !important;
+    width: 40%;
+    height: 110% !important;
+    margin-left: 37% !important;
+}
+.Dritare2-PerFoto button{
+    margin-left: 25%;
+}
+.Dritare3-PerFoto button{
+    margin-left: 25% !important;
+}
+.Dritare4-PerFoto button{
+    margin-left: 25% !important;
+}
+.ButoniShtyllaPerNdarse{
+    margin-left: 31%;
+}
+.ButoniShtylla1{
+    margin-left:25% !important;
+}
+.ButoniShtyllaP-1{
+    margin-left: 71% !important;
+}
+.ButoniShtyllaP-2{
+    margin-left: 20% !important;
+}
+.ButoniAdapterP-1{
+    margin-left: 61% !important;
+    margin-top: 5%;
+
+}
+.ButoniAdapterP-2{
+    margin-left: 20% !important;
+    margin-top: 5%;
+
+
+}
+
+
+.ButoniShtyllaN-1{
+    margin-left: 70% !important;
+}
+.ButoniShtyllaN-2{
+    margin-left: 20% !important;
+}
+.ButoniAdapterN-1{
+    margin-left: 60% !important;
+    margin-top: 5%;
+
+}
+.ButoniAdapterN-2{
+    margin-left: 20% !important;
+    margin-top: 5%;
+
+
+}
+#Rezultatet3{
+margin-left: 32% !important;
+}
+
+}
+
+@media(max-width:375px){
+    .ButoniShtylla{
+        margin-left: 28% !important;
+    }
+    .ButoniShtyllaPerNdarse{
+        margin-left: 28%;
+    }
+
+    .ButoniShtyllaP-1{
+        margin-left: 65% !important;
+    }
+    .ButoniAdapterP-1{
+        margin-left:55% !important;
+    }
+    .ButoniShtyllaN-1{
+        margin-left: 62% !important;
+    }
+    .ButoniAdapterN-1{
+        margin-left:52% !important;
+    }
+    /* .ButoniAdapter-41{
+        margin-left:15% !important;
+    }
+    .ButoniAdapter-42{
+        margin-left:5% !important;
+    }
+    .ButoniAdapter-43{
+        margin-rigt:3% !important;
+    } */
+    .Dritare2-PerFoto button{
+        margin-left: 22% !important;
+    }
+    .Dritare3-PerFoto button{
+        margin-left: 22% !important;
+    }
+    .Dritare4-PerFoto button{
+        margin-left: 22% !important;
+    }
+    #Rezultatet3{
+        margin-left: 32% !important;
+        }
+}
+@media(max-width:320px){
+    .my-modal{
+        width: 100%;
+        position: fixed;
+        left: 0%;
+    }
+    .Mbledhja{
+        margin-right: 0% !important;
+    }   
+    .ButoniAdapter1{
+       padding-right: 24%;
+    }
+   .Dritare2-PerFoto button{
+       margin-left: 16% !important;
+   }
+   .Dritare3-PerFoto button{
+    margin-left: 16% !important;
+}
+.Dritare4-PerFoto button{
+    margin-left: 16% !important;
+}
+.ButoniShtylla {
+    margin-left: 24% !important;
+}
+.ButoniShtyllaPerNdarse{
+    margin-left: 22%;
+}
+.GjatesiaNdarese{
+    width:120% !important; 
+    margin-left: 52% !important;
+}
+.TextiP3{
+    font-size: 15px !important;
+}
+.xP3{
+    font-size: 16px !important;
+}
+.ButoniShtyllaP-1{
+    margin-left: 50% !important;
+}
+.ButoniAdapterP-1{
+    margin-left: 38% !important;
+
+}
+/* .ButoniShtyllaP-2{
+    margin-right: 55%;
+}
+.ButoniAdapterP-2{
+    margin-right: 55%;
+
+} */
+.ButoniShtyllaN-1{
+    margin-left: 55% !important;
+
+}
+
+.ButoniAdapterN-1{
+    margin-left: 43% !important;
+
+
+}
+.ButoniShtylla-41{
+    margin-left: 0%;
+}
+.ButoniShtylla-42{
+    margin-left: 0%;
+}
+.ButoniAdapter-41 {
+   margin-left: 0%;
+   padding-right: 4% !important;
+}
+.ButoniAdapter-42 {
+margin-left: 0%;
+padding-right: 4% !important;
+
+}
+.ButoniShtyllaNN-41{
+    margin-left: 2%;
+}
+.ButoniShtyllaNN-42{
+    margin-left: 2%;
+}
+.ButoniAdapterNN-41 {
+    margin-left: 0%;
+    padding-right: 4% !important;
+ }
+ .ButoniAdapterNN-42 {
+ margin-left: 0%;
+ padding-right: 4% !important;
+ 
+ }
+
+strong{
+    font-size: 5px !important;
+}
+.modal-header strong {
+    font-size: 12px !important;
+}
+#Rezultatet3{
+    margin-left: 25% !important;
+    }
+
+
+
+    
+    }
+
+   
+
+
+.Texti2{
+        float: left;
+    }
+.x2{
+   color: rgb(253, 0, 0);
+   float: right;
+   
+}
+.Texti{
+    float: left ;
+}
+.x1{
+    color: rgb(253, 0, 0);
+    float: right;
+    left:5%;
+    
+ }
+.my-modal{
+    display: none;
+    z-index: 11;
+}
+/* .Llojet{
+    color: rgb(0, 0, 0);
+    float: left;
+    text-align: center;
+} */
+.Mbledhja{
+    
+    margin-right: 33% !important;
+}   
+#Rezultatet{
+   
+    margin-top: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 32.5%;
+    color: rgb(14, 14, 14);
+}
+#Rezultatet1{
+   
+    margin-top: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 32%;
+    color: rgb(14, 14, 14);
+}
+.Rezultatet1{
+    background-color: rgb(243, 243, 243);
+    height: 1100px;
+    
+    
+}
+.Rezultatet{
+    background-color: rgb(243, 243, 243);
+    height: 1100px;
+   
+}
+.RezultatetL{
+    background-color: rgb(243, 243, 243);
+    height: 1300px;
+   
+}
+.Rezultatet-3{
+    background-color: rgb(243, 243, 243);
+    height: 1100px;
+   
+}
+.Rezultatet-4{
+    background-color: rgb(243, 243, 243);
+    height: 1800px;
+    margin-top: 50%;
+
+   
+}
+
+.RezultatetN-4{
+    background-color: rgb(243, 243, 243);
+    height: 1800px;
+    margin-top: 50%;
+
+   
+}
+.Adapterii{
+    display:none ;
+}
+.AdapterArmatur{
+    display: none;
+}
+.Shtylla{
+    display: none;
+}
+.ShtyllaArmatura1{
+    display: none;
+}
+.Adapterii1{
+    display:none ;
+}
+.AdapterArmatur1{
+    display: none;
+}
+.Shtylla1{
+    display: none;
+}
+.ShtyllaArmatura{
+    display: none;
+}
+
+.copA{
+    display: none;
+}
+.copSH{
+    display: none;
+}
+.copA1{
+    display: none;
+}
+.copSH1{
+    display: none;
+}
+.ButoniShtylla1{
+    margin-left:33%;
+}
+.ButoniShtylla{
+    margin-left:31%;
+}
+/* .ButoniAdapter1{
+    margin-left:20%;
+    } */
+
+    .Image-Dritare1{
+        width: 100%;
+        height: 100%;
+        
+        
+    }
+    .Image-Dritare2{
+        width: 100%;
+        height: 100%;
+        
+        
+    }
+    .Image-Dritare3{
+        width: 100%;
+        height: 100%;
+        
+        
+    }
+    .Image-Dritare4{
+        width: 100%;
+        height: 100%;
+    
+        
+    }
+    .Image{
+        /* height: 50%; */
+        width: 100%;
+        margin-left: 36%;
+        margin-top: 4%;
+    }
+    /* .Image3N{
+        /* margin-left: 39%; */
+    /* } */
+     */
+    /* .foto{
+        height: 80%;
+    }
+    .foto1{
+        height: 100%;
+    } */
+
+    .Image-Dritare-Dyshese1{
+        height: 100%;
+        width: 100%;
+        
+    }
+
+    /* .Image-Dritar{
+        height: 100%;
+        width: 20%;
+        margin-left: 52%;
+        
+    } */
+
+    /* .glide__slide img{
+        height: 200px !important;
+        width: 30%;
+        position: relative;
+        z-index: 10;
+        
+    } */
+    /* .glide__slide{
+        z-index: 20;
+        position: relative;
+    } */
+    .glide__slide img{
+        height: 38vh !important;
+        width:100% !important;
+        display:block;
+        background-clip: initial;
+        background-position: center;
+        background-position-x:center;
+        background-position-y:center;
+        
+    }
+    .text-foto{
+        margin-top: 40%;
+    }
+    .Foto{
+        margin-left: 130%;
+    }
+    .Foto2{
+        margin-left: 130% ;
+    }
+    .Image img{
+        height: 100% !important;
+        padding-bottom: 15%;
+        
+    }
+    .fa-print{
+        color: black;
+        font-size: 20px;
+    }
+   strong{
+       font-size: 14px ;
+   }
+
+   .Dritare1-PerFoto, .Dritare2-PerFoto, .Dritare3-PerFoto{
+   background-image: url("Body-1.jpg");
+   border: 3px white solid;
+   background-position: top;
+   background-position-x: center;
+   background-position-y: top;
+   background-size: cover;
+      width: 60%;
+      position: fixed;
+      left: 22%;
+      top:15%;
+      z-index: 10;
+      padding:3%;
+      overflow: auto;
+      height: 60%;
+      display: none;
+      
+   }
+   
+   
+   .xx1{
+       float: right;
+       color: red;
+       margin-top: 4%;
+   }
+   .PerFoto1{
+    float:left;
+    margin-bottom: 4%;
+    color: white;
+   }
+   .xx2{
+    float: right;
+    color: red;
+    margin-top: 4%;
+}
+.PerFoto2{
+ float:left;
+ margin-bottom: 4%;
+ color: white;
+}
+
+.ButoniNdares1,.ButoniNdares2,.ButoniNdares3,
+.ButoniNdares4,.ButoniNdares5,
+.ButoniNdares6,.ButoniNdares7,.ButoniNdares8,
+.ButoniNdares9,.ButoniNdares10,.ButoniNdares11,
+.ButoniNdares12,.ButoniNdares13,.ButoniNdares14{
+    margin-left: 20%;
+    margin-bottom: 0%;
+    font-size: 10px;
+}
+.xNdares-2{
+    color: red;
+    float: right;
+}
+.TextiNdares-2{
+    float: left;
+}
+.FotoNdarese-2{
+    margin-left: 130% ;
+}
+ .GjatesiaNdarese{
+    margin-top: 5%;
+    margin-left: 65%;
+    margin-bottom: 10%;
+}
+
+.GjatesiaKatersheNdarse{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-bottom: 5%;
+
+}
+#RezultatetGjatNdarjes{
+    margin-left: 20%;
+    padding-top:2% !important;
+    
+}
+.XhK1,.XhK2,.XhPK1,.XhPK2{
+    display: inline !important;
+}
+.Dritare3-PerFoto{
+    background-image: url("Body-1.jpg");
+    width: 60%;
+    border: 3px white solid;
+      position: fixed;
+      left: 22%;
+      top:15%;
+      z-index: 10;
+      padding:3%;
+      overflow: auto;
+      height: 60%;
+      display: none;
+}
+.Dritare4-PerFoto{
+    background-image: url("Body-1.jpg");
+    background-position: top;
+    border: 3px white solid;
+    background-position-x: center;
+    background-position-y: top;
+    background-size: cover;
+    width: 60%;
+      position: fixed;
+      left: 22%;
+      top:15%;
+      z-index: 10;
+      padding:3%;
+      overflow: auto;
+      height: 60%;
+      display:none;
+}
+
+.Dritare4-PerFoto img{
+    height: 74%;
+}
+.Dritare4-PerFoto button{
+    margin-left: 20%;
+    margin-bottom: 0%;
+    font-size: 10px;
+}
+.Dritare4-PerFoto img{
+    height: 90%;
+}
+.Dritare3-PerFoto img{
+    height: 74%;
+}
+/* .ButoniNdares31,.ButoniNdares32,.ButoniNdares33,
+.ButoniNdares34,.ButoniNdares35,
+.ButoniNdares36,.ButoniNdares37,.ButoniNdares38,
+.ButoniNdares39,.ButoniNdares310,.ButoniNdares311,
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314
+.ButoniNdares312,.ButoniNdares313,.ButoniNdares314{
+    margin-left: 20%;
+    margin-bottom: 0%;
+    font-size: 10px;
+} */
+.Dritare3-PerFoto button{
+    margin-left: 20%;
+    margin-bottom: 0%;
+    font-size: 10px;
+}
+.Dritare4-PerFoto button{
+    margin-left: 20%;
+    margin-bottom: 0%;
+    font-size: 10px;
+}
+.PerFoto3{
+    float: left;
+    color: white;
+}
+.xx3{
+    float: right;
+    color: red;
+}
+.xx4{
+    float: right;
+    color: red;
+}
+.Texti3{
+    float: left;
+    color:rgb(5, 5, 5);
+    font-size: 20px;
+
+
+}
+.x3{
+    float:right;
+    color: red;
+}
+.close4{
+    float:right;
+    color: red;
+
+}
+.Foto3{
+    margin-left: 130% ;
+}
+.FotoN3{
+    margin-left: 135% ;
+}
+.Foto4{
+    margin-left: 130%;
+}
+.GjatesiaP-3{
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.GjeresiaP-3{
+    margin-left: 23%;
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.GjatesiaTreshe-3{
+    margin-left: 60%;
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.ButoniShtylla-1{
+margin-left: 18%;
+}
+.ButoniShtyllaP-1{
+    margin-left: 0%;
+}
+
+.TextiP3{
+    float: left;
+    color: black;
+    font-size: 20px;
+}
+.TextiP4{
+    float: left;
+    color: black;
+    font-size: 20px;
+}
+.xP3{
+float: right;
+color: red;
+font-size: 18px;
+}
+.xP4{
+    float: right;
+    color: red;
+    font-size: 18px;
+    }
+#Rezultatet3{
+   
+    margin-top: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 32.5%;
+    color: rgb(14, 14, 14);
+}
+#RezultatetNdarse3{
+    margin-top: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 20%;
+    color: rgb(14, 14, 14);
+}
+#Rezultatet4{
+    margin-top: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 28.5%;
+    color: rgb(14, 14, 14);
+}
+#RezultatetN4{
+    margin-top: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 14.5%;
+    color: rgb(14, 14, 14);
+}
+
+
+.ShtyllaTreshe-1,.ShtyllaTreshe-2,.AdapteriTreshe-1,.AdapteriTreshe-2,
+.copSH-1,.copA-1,.copSH-2,.copA-2,.ShtyllaArmatura-1,.AdapterArmatur-1,.ShtyllaArmatura-2,.AdapterArmatur-2{
+display: none;
+}
+.ShtyllaTresheN-1,.ShtyllaTresheN-2,.AdapteriTresheN-1,.AdapteriTresheN-2,
+.copNSH-1,.copNA-1,.copNSH-2,.copNA-2,.ShtyllaArmaturaN-1,.AdapterArmaturN-1,.ShtyllaArmaturaN-2,.AdapterArmaturN-2{
+display: none;
+}
+.ShtyllaKatershe-1,.ShtyllaKatershe-2,.ShtyllaKatershe-3,.AdapteriKatershe-1,.AdapteriKatershe-2,.AdapteriKatershe-3,
+.copNSH-41,.copNA-41,.copNSH-42,.copNA-42,.copNSH-43,.copNA-43,.ShtyllaArmaturaN-41,.AdapterArmaturN-41,.ShtyllaArmaturaN-42,.AdapterArmaturN-42,.ShtyllaArmaturaN-43,.AdapterArmaturN-43{
+display: none;
+}
+.ShtyllaKatersheN-1,.ShtyllaKatersheN-2,.ShtyllaKatersheN-3,.AdapteriKatersheN-1,.AdapteriKatersheN-2,.AdapteriKatersheN-3,.copNNSH-41,.copNNSH-42,.copNNSH-43,.copNNA-41,.copNNA-42,.copNNA-43,
+.ShtyllaArmaturaNN-41,.ShtyllaArmaturaNN-42,.ShtyllaArmaturaNN-43,.AdapterArmaturNN-41,.AdapterArmaturNN-42,.AdapterArmaturNN-43{
+    display: none;
+}
+
+
+
+
+.fotoTreshe{
+    height: 50%;
+}
+.Rezultatet-3{
+    height: 1500px;
+}
+.RezultatetN-3{
+    background-color: rgb(243, 243, 243);
+    height: 1500px;
+    margin-top: 30%;
+}
+.ButoniShtyllaN-1{
+    margin-left: 19%;
+}
+
+.Gjatesia-4{
+    margin-left: 23%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.Gjeresia-4{
+    margin-left: 23%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+/* .ButoniAdapterNd-3{
+    
+} */
+.ButoniShtyllaNd-1{
+    margin-left: 3%;
+}
+.ShtyllaLevizese,.AdapteriLevizes,.copLSH,.copLA,.ShtyllaArmaturaL,.AdapterArmaturL{
+    display: none;
+}
+
+/* Adpateri  */
+.copaKHA-3{
+display: none;
+}
+.KcopaA-3{
+    display: none;
+}
+.KrahuTresheHA-1{
+    display: none;
+}
+.ArmaturaH{
+    display: none;
+}
+.KcopaAr-3{
+    display: none;
+}
+.KrahuTresheHAr-1{
+display: none;
+}
+.KrahuTresheH-1{
+    display: inline;
+}
+.ArmaturaR{
+    display: none;
+}
+.KornizaH{
+    display: none;
+}
+.copaKHA-4{
+    display: none;
+}
+
+/* 4 */
+/* .KrahuKatershHAR-1{
+    display: none;
+} */
+
+.KrahuKatershHA-1{
+    display: none;
+
+}
+/* .copa4-1{
+    display: none;
+} */
+.copa4-2{
+    display: none;
+
+}
+/* .Armatura4Ar{
+    display: none;
+} */
+.Armatura4A{
+    display: none;
+}
+
+#scren1{
+    width: 100%;
+}
+.buttoniLista{
+    /* padding-left: 5% !important;
+    margin-left: 25%; */
+    float: right;
+}
+
+.jumb{
+    padding-left: 8% !important;
+}
+.buttoniVlera{
+    /* margin-left: 70%; */
+    float: left;
+}
+.buttoniVlera a{
+    text-decoration: none;
+    color: white;
+}
+
+@media(max-width:768px){
+    .buttoniLista{
+        /* padding-left:3% !important;
+        margin-left: 65% !important;
+        margin-top: 5%; */
+        float:right ;
+        
+
+    }
+    .buttoniVlera{
+        /* margin-left: 80%; */
+        float: left ;
+    }
+    
+    .jumb{
+        padding-left: 0% !important;
+    }
+    .buttoniVlera a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+@media(max-width:425px){
+    .buttoniLista{
+        /* padding-left:3% !important;
+        margin-left: 65% !important;
+        */
+        margin-top: 5%; 
+        float:right ;
+        
+
+    }
+    .buttoniVlera{
+        /* margin-left: 80%; */
+        margin-top: 5%; 
+        float: left ;
+    }
+    
+    .jumb{
+        padding-left: 0% !important;
+    }
+    .buttoniVlera a{
+        text-decoration: none;
+        color: white;
+    }
+}
+@media(max-width:375px){
+    .buttoniLista{
+        /* padding-left:3% !important;
+        margin-left: 65% !important;
+        margin-top: 5%; */
+        float:right ;
+        
+
+    }
+    .buttoniVlera{
+        /* margin-left: 80%; */
+        float: left ;
+    }
+    
+    .jumb{
+        padding-left: 0% !important;
+    }
+    .buttoniVlera a{
+        text-decoration: none;
+        color: white;
+    }
+}
+@media(max-width:320px){
+    .buttoniLista{
+        /* padding-left:3% !important;
+        margin-left: 65% !important;
+        margin-top: 5%; */
+        float:right ;
+        
+
+    }
+    .buttoniVlera{
+        /* margin-left: 80%; */
+        float: left ;
+    }
+    
+    .jumb{
+        padding-left: 0% !important;
+    }
+    .buttoniVlera a{
+        text-decoration: none;
+        color: white;
+    }
+}
